@@ -213,7 +213,3 @@ Track campaign performance through retained customers, retained monthly revenue,
 
 **Swayam Dalal**  
 Data Analytics & Business Intelligence
-
-## Acknowledgment
-
-Project framework: **Rishabh Mishra — Churn Analysis and Customer Intelligence**.
